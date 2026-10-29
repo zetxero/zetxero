@@ -1,7 +1,7 @@
 <!-- README.md -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=monospace+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hello,+World!%2C+I'm+ZETXERO+%F0%9F%91%8B;Welcome+To+My+GitHub+Profile!;%3C+%2F+%3E+with+🏴‍☠️+and+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=monospace+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hello,+World!%2C+My+Name+is+ZETXERO+%F0%9F%91%8B;Welcome+To+My+GitHub+Profile!;%3C+%2F+%3E+with+%E3+and+%E2%98%95" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://visitorbadge.io/status?path=zetxero"><img src="https://api.visitorbadge.io/api/visitors?path=zetxero&label=Profile%20Views&labelColor=%232ccce4&countColor=%23555555" /></a>
